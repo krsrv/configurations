@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/canister/Desktop/IITB/Sem 4/CS 224/Lab 5'
+let g:netrw_dirhist_2='/Users/canister/Documents/Journal'
+let g:netrw_dirhist_3='/Users/canister/Desktop/IITB/Sem 4/CS 228/clingo-5.2.2-macos-10.9/files'
+let g:netrw_dirhist_4='/Users/canister/Documents/Journal'
+let g:netrw_dirhist_5='/Users/canister/Desktop/IITB/S5/CS475/OpenGL/playground'
+let g:netrw_dirhist_6='/Users/canister/Desktop/IITB/S6/RnD/testing/.git'
